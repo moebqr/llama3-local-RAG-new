@@ -7,3 +7,4 @@
 * chromadb
 * pytest
 * boto3
+* ollama
